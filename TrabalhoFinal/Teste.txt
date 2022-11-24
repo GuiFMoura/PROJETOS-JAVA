@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=Lr3CZrzqmYo&list=PLFDH5bKmoNqz2qUbIMpKIA97WXkeAu2cD - Playlist gestão biblioteca;
+https://www.youtube.com/watch?v=esIfJnbrJo8&list=PL_Ke9hJMFeR_TWfBOug40-2uSANxa8dtE - Playlist 2 gestão biblioteca;
+https://github.com/search?q=library+management+system+in+java&type=repositories - Próprio Git com projetos de Gestão de Biblioteca;
